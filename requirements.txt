@@ -1,3 +1,11 @@
 pandas
 numpy
 scikit-learn
+imblearn
+xgboost
+shap
+matplotlib
+fastapi
+uvicorn
+streamlit
+joblib
